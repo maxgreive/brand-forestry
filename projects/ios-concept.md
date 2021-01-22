@@ -6,7 +6,7 @@ categories:
 - yellow
 - orange
 - art
-project_bg_color: "#F5A623"
+project_bg_color: "#FFFFFF"
 project_fg_color: "#F8E71C"
 
 ---
