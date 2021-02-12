@@ -7,7 +7,7 @@ categories:
 - " love"
 - urban
 project_bg_color: ''
-project_fg_color: "#E36729"
+project_fg_color: "#d16f04"
 
 ---
 ![](/uploads/brand_love_urban_art_spray_work.jpg)

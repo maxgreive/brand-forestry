@@ -2,10 +2,10 @@
 // Learn more: https://gridsome.org/docs/config
 
 module.exports = {
-  siteName: "Portfolio",
-  siteUrl: `https://www.itsnwa.com`,
+  siteName: "Brand Urbanart",
+  siteUrl: `https://www.brand-urbanart.com`,
   host: "0.0.0.0",
-  titleTemplate: "%s - NWA",
+  titleTemplate: "%s - Brand Urbanart",
   siteDescription: "Creative technologist",
   plugins: [
     {

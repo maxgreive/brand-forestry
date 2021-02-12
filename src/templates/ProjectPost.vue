@@ -10,10 +10,10 @@
 
             <div class="categories-container">
               <div class="categories">
-                <span class="label">Categories</span>
-                <span 
+                <span class="label">Tags</span>
+                <span
                   class="category"
-                  v-for="(category, index) in $page.post.categories" 
+                  v-for="(category, index) in $page.post.categories"
                   :key="index"
                   v-text="category"
                 />
@@ -21,7 +21,7 @@
             </div>
 
             <div class="year-container">
-              <span class="label">Year</span>
+              <span class="label">Jahr</span>
               <div v-html="$page.post.date"/>
             </div>
           </div>

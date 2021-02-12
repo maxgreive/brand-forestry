@@ -4,28 +4,28 @@
 
       <div class="contact-header">
         <h1 class="contact-title">Say hi!</h1>
-        <p>Leave me a note with any questions you might have, I'll get back to you as soon as possible.</p>
+        <p>Zur Kontaktaufnahme bitte dieses Formular ausfüllen. Wir melden uns dann bei Dir!</p>
       </div>
 
-      <form class="contact-form" name="contact">
+      <form class="contact-form" name="contact" method="POST" data-netlify="true">
 
         <div class="sender-info">
           <div>
-            <label for="name" class="label">Your name</label>
+            <label for="name" class="label">Dein Name</label>
             <input type="text" name="name" />
           </div>
           <div>
-            <label for="email" class="label">Your email</label>
+            <label for="email" class="label">Deine E-Mail</label>
             <input type="email" name="email" />
           </div>
         </div>
 
         <div class="message">
-          <label for="message" class="label">Message</label>
+          <label for="message" class="label">Nachricht</label>
           <textarea name="message"></textarea>
         </div>
 
-        <button class="button">Submit form</button>
+        <button class="button">Senden</button>
 
       </form>
 

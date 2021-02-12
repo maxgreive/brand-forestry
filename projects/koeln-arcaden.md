@@ -7,8 +7,8 @@ categories:
 - orange
 - art
 - cologne
-project_bg_color: "#FFFFFF"
-project_fg_color: "#F8E71C"
+project_bg_color: ""
+project_fg_color: "#bb310e"
 
 ---
 ![](/uploads/arcaden_koln_brand_urban_art_moe.jpg)
