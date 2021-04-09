@@ -1,7 +1,7 @@
 ---
 date: 2021-01-22
 thumbnail: "/uploads/brand_love_urban_art_spray_hands.jpg"
-title: Graffiti Love * Brand Art X Urbandrips
+title: Graffiti Love - Brand Art X Urbandrips
 categories:
 - spray
 - " love"
