@@ -3,8 +3,10 @@ date: 2021-01-22
 thumbnail: "/uploads/brand_love_urban_art_spray_hands.jpg"
 title: Graffiti Love - Brand Art X Urbandrips
 categories:
-- Urban Art
 - Mural
+- Urbanart
+- Spraypaint
+- Art
 project_bg_color: ''
 project_fg_color: "#d16f04"
 
