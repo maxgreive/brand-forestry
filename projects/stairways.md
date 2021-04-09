@@ -5,6 +5,8 @@ title: Stairways
 categories:
 - Commercial
 - Abstract Art
+- Architecture
+- Contemporary Art
 project_bg_color: ''
 project_fg_color: ''
 
