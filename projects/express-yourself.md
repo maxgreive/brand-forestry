@@ -1,7 +1,7 @@
 ---
 date: 2021-04-09
 thumbnail: "/uploads/brand_love_mural_urban__corporate_art_cologne.jpg"
-title: Express yourself
+title: Express yourself - Brand x Love - Cologne
 categories:
 - Mural
 - Urbanart
