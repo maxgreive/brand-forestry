@@ -36,6 +36,7 @@ fields:
     color_format: Hex
   label: Foreground color
 pages:
+- projects/abstract-art-cologne.md
 - projects/bigger-is-better-burning-windows.md
 - projects/express-yourself.md
 - projects/love-urban-art-spray-hands.md
