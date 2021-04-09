@@ -1,10 +1,12 @@
 ---
 thumbnail: "/uploads/arcaden_koln_brand_urban_art_totale.jpg"
-title: Köln Arcaden
+title: 'Köln Arcaden '
 date: 2019-01-03
 categories:
-- 'Köln Arcaden '
 - Contemporary Art
+- Portrait
+- Art
+- Commercial
 project_bg_color: ''
 project_fg_color: "#bb310e"
 
