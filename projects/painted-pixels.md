@@ -2,7 +2,8 @@
 date: 2021-04-09
 thumbnail: "/uploads/pixel_brand_art_wall_flavour.jpg"
 title: Painted pixels
-categories: []
+categories:
+- spray urban
 project_bg_color: ''
 project_fg_color: ''
 
