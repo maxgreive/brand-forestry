@@ -2,7 +2,11 @@
 date: 2021-04-09
 thumbnail: "/uploads/brand_love_mural_urban__corporate_art_cologne.jpg"
 title: Express yourself
-categories: []
+categories:
+- Mural
+- Urbanart
+- Streetart
+- Architecture
 project_bg_color: ''
 project_fg_color: ''
 
