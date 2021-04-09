@@ -10,4 +10,4 @@ project_bg_color: ''
 project_fg_color: "#d16f04"
 
 ---
-![](/uploads/brand_love_urban_art_spray_work.jpg)
+![](/uploads/brand_love_urban_art_spray_work.jpg)urbandrips vs brand
