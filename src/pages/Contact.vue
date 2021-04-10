@@ -7,11 +7,8 @@
         <p>Zur Kontaktaufnahme bitte dieses Formular ausfüllen. Wir melden uns dann bei Dir!</p>
       </div>
 
-      <form class="contact-form" name="contact" method="POST" data-netlify="true" netlify-honeypot="bot-field">
+      <form class="contact-form" name="contact" method="POST" data-netlify="true">
         <div class="sender-info">
-           <p style="display:none;">
-            <label>Don’t fill this out if you’re human: <input name="bot-field" /></label>
-          </p>
           <div>
             <label for="name" class="label">Dein Name</label>
             <input type="text" name="name" />
