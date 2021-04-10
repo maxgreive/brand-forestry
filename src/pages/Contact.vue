@@ -7,7 +7,7 @@
         <p>Zur Kontaktaufnahme bitte dieses Formular ausfüllen. Wir melden uns dann bei Dir!</p>
       </div>
 
-      <form class="contact-form" name="contact" method="POST" data-netlify="true">
+      <form class="contact-form" name="contactnew" method="POST" data-netlify="true">
         <div class="sender-info">
           <div>
             <label for="name" class="label">Dein Name</label>
