@@ -7,7 +7,7 @@
         <p>Zur Kontaktaufnahme bitte dieses Formular ausfüllen. Wir melden uns dann bei Dir!</p>
       </div>
 
-      <form class="contact-form" name="contact" method="POST" data-netlify="true">
+      <form class="contact-form" name="contact" method="POST" data-netlify="true" data-netlify-recaptcha="true">
 
         <div class="sender-info">
           <div>
@@ -24,6 +24,8 @@
           <label for="message" class="label">Nachricht</label>
           <textarea name="message"></textarea>
         </div>
+
+        <div data-netlify-recaptcha="true"></div>
 
         <button class="button">Senden</button>
 
