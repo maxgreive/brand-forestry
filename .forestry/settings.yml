@@ -2,7 +2,7 @@
 new_page_extension: md
 auto_deploy: false
 admin_path: "/static/admin"
-webhook_url: 
+webhook_url:
 sections:
 - type: directory
   path: projects
@@ -13,7 +13,7 @@ sections:
   - project
 - type: directory
   path: journal
-  label: Journal
+  label: News
   create: documents
   match: "**/*.md"
   templates:

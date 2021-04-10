@@ -3,7 +3,7 @@
     <div class="container">
 
       <div class="contact-header">
-        <h1 class="contact-title">Say hi!</h1>
+        <h1 class="contact-title">Contact</h1>
         <p>Zur Kontaktaufnahme bitte dieses Formular ausfüllen. Wir melden uns dann bei Dir!</p>
       </div>
 
