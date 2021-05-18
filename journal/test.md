@@ -2,7 +2,7 @@
 date: 2021-04-10
 author: Brand Urban Art
 title: Latest and greatest
-excerpt: Latest and greatest
+excerpt: take a look
 
 ---
 you can follow us on Instagram:
