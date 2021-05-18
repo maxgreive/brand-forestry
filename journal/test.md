@@ -9,22 +9,8 @@ you can follow us on Instagram:
 
 [https://instagram.com/brand__art__official](https://instagram.com/brand_art_official "Instagram")
 
-Bigger is better
+all our videos on Youtube.com:
 
-![](/uploads/brandhalle_utopia_stadt_t1.jpg)
+https://
 
-Express yourself
-
-![](/uploads/brand_express_yourself_cologne.jpg)
-
-Köln Arcaden
-
-![](/uploads/arcaden_koln_brand_urban_art_totale.jpg)
-
-Graffiti Love
-
-![](/uploads/brand_love_urban_art_spray_hands.jpg)
-
-Burning windows
-
-![](/uploads/building_brand_urban_art_windows.jpg)
+[https://m.youtube.com/playlist?list=PL3BCoA5auBKSYInhDHjGTawBx9vbEgi3u](https://m.youtube.com/playlist?list=PL3BCoA5auBKSYInhDHjGTawBx9vbEgi3u "Youtube Brand")
