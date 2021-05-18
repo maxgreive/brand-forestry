@@ -7,9 +7,9 @@ excerpt: take a look
 ---
 you can follow us on Instagram:
 
-https://instagram.com/brand__art__official
+[https://instagram.com/brand__art__official](https://instagram.com/brand_art_official "Instagram")
 
- Bigger is better
+Bigger is better
 
 ![](/uploads/brandhalle_utopia_stadt_t1.jpg)
 
