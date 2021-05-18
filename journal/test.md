@@ -5,4 +5,8 @@ title: Latest and greatest
 excerpt: This is a test
 
 ---
-ABC
+Bigger is better
+
+![](/uploads/brandhalle_utopia_stadt_t1.jpg)
+
+Express yourself
