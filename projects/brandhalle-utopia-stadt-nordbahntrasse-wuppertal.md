@@ -1,7 +1,7 @@
 ---
 date: 2021-05-18
 thumbnail: "/uploads/brandhalle_utopia_stadt_t1.jpg"
-title: Bigger is better
+title: go big
 categories: []
 project_bg_color: ''
 project_fg_color: ''
