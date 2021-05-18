@@ -13,4 +13,12 @@ project_fg_color: "#bb310e"
 ---
 ![](/uploads/6fc3bd99-dca3-406f-98ef-984c52b30f74.jpeg)![](/uploads/brand_corporate_art_koln_arcaden_2portraits.jpg)![](/uploads/6535e98e-4e39-46fb-95c6-9908d1846c92.jpeg)![](/uploads/arcaden_koln_brand_urban_art_gisella.jpg)
 
-[https://www.youtube.com/watch?v=maRugw3BT6w](https://www.youtube.com/watch?v=maRugw3BT6w "Video - Making of ")
+Diese Portraits unterschiedlicher Menschen und Kulturen stellten wir auf der Eingangswand der Köln Arcaden in Köln Kalk dar.
+
+Hier der Film zur Entstehung:
+
+[https://www.youtube.com/watch?v=maRugw3BT6w](https://www.youtube.com/watch?v=maRugw3BT6w "making of Köln Arcaden Brand")
+
+We presented these portraits of different people and cultures on the entrance wall of the Köln Arcaden mall in Köln Kalk. Here is the film about the making: 
+
+[https://www.youtube.com/watch?v=maRugw3BT6w](https://www.youtube.com/watch?v=maRugw3BT6w "https://www.youtube.com/watch?v=maRugw3BT6w")
