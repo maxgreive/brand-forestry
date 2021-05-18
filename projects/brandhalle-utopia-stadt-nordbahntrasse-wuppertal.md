@@ -11,7 +11,7 @@ project_fg_color: ''
 
 ![](/uploads/wz_2_brandhalle_utopia_stadt.jpg)
 
-Das Gebäude einer Spedition angrenzend an der Nordbahn-Trasse in Wuppertal am Mirker Bahnhof wurde im Rahmen einer von Team Brand selbst initierten Kunstaktion gestaltet.
+Das Gebäude einer Spedition angrenzend an der Nordbahn-Trasse in Wuppertal am Mirker Bahnhof wurde im Rahmen einer von Team Brand selbst initierten Kunstaktion gestaltet .
 
 Danke für die Unterstützung durch:
 
