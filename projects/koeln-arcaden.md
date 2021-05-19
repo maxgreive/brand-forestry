@@ -15,7 +15,6 @@ project_fg_color: "#bb310e"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/maRugw3BT6w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Diese künstlerische Gestaltung entstand im Eingangsbereich der Kalk Arcaden in Köln und zeigt die Portraits von acht Personen aus unterschiedlichen Kulturkreisen. Modern in Szene gesetzt und alles in Handarbeit mittels Sprühfarben realisiert. Vielen Dank für die Zusammenarbeit. 
-
+Diese künstlerische Gestaltung entstand im Eingangsbereich der Kalk Arcaden in Köln und zeigt die Portraits von acht Personen aus unterschiedlichen Kulturkreisen. Modern in Szene gesetzt und alles in Handarbeit mittels Sprühfarben realisiert. Vielen Dank für die Zusammenarbeit.
 
 This artistic design was created in the entrance area of ​​the Kalk Arcaden mall in Cologne and shows the portraits of eight people from different cultures. Set in a modern scene and everything is done by hand using spray paints. Thank you for the cooperation.
