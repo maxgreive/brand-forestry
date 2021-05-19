@@ -21,7 +21,7 @@ Freie künstlerische Gestaltung der Fassade eines Wohnheims für Flüchtlinge in
 
 ein Video zur Entstehung finden Sie hier:
 
-[https://www.youtube.com/watch?v=Sf4g19g-cGw](https://www.youtube.com/watch?v=Sf4g19g-cGw "making of video")
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/Sf4g19g-cGw](https://www.youtube.com/embed/Sf4g19g-cGw "https://www.youtube.com/embed/Sf4g19g-cGw")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Free artistic design of the facade of a dormitory for refugees in Cologne's Südstadt in cooperation with the artist "Love". You can find a very readable article on the project here:
 
