@@ -13,6 +13,6 @@ project_fg_color: ''
 ---
 ![](/uploads/urban_art_stairway_brand_oz_style1.jpg)![](/uploads/urban_art_stairway_brand1.jpg)![](/uploads/urban_art_stairway_brand.jpg)![](/uploads/urban_art_stairway_brand_oz_style.jpg)
 
-Auftragsarbeit für Küpper Bros Immobilien in Wuppertal.
+Auftragsarbeit für Küpper Bros Immobilien in Wuppertal
 
-Commissioned work for Küpper Bros Immobilien in Wuppertal.
+Commissioned work for Küpper Bros Immobilien in Wuppertal
