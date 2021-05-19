@@ -13,15 +13,9 @@ project_fg_color: "#d16f04"
 ---
 ![](/uploads/brand_love_urban_art_spray_work.jpg)![](/uploads/4f763f5d-c919-43a7-9322-e93ca26e3888.jpeg)![](/uploads/8c28b1e3-652e-42b7-ad98-2cbcec926df7.jpeg)![](/uploads/b9b6ab27-447c-48e6-b2cb-48dea8e5fe32.jpeg)![](/uploads/07d524a4-b7c5-489f-a183-bd825575e083.jpeg)![](/uploads/af243d01-f204-4b8e-b8ab-c15c41c5d07f.jpeg)![](/uploads/1c0a4cd1-1442-484c-8643-4d9f0a622e3f.jpeg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9V2_OoymGiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Dieses großformatige Wandbild auf der Seitenwand einer Turnhalle wurde innerhalb von 5 Tagen mittels Sprühdosen umgesetzt. Das Mural entstand in Zusammenarbeit mit Urbandrips.
-
-hier der Film zum Projekt:
-
-<iframe width="1200" height="630" src="https://www.youtube.com/embed/9V2_OoymGiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 This large-format mural on the side wall of a gym was implemented within 5 days using spray cans. The mural was created in collaboration with Urbandrips.
-
-here is the film about the project:
-
-<iframe width="1200" height="630" src="https://www.youtube.com/embed/9V2_OoymGiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
