@@ -21,7 +21,7 @@ Diese künstlerische Fassadengestaltung eines Wohnheims für Flüchtlinge in der
 
 ein Video zur Entstehung finden Sie hier:
 
-[https://www.meinesuedstadt.de/express-yourself/](https://www.meinesuedstadt.de/express-yourself/ "https://www.meinesuedstadt.de/express-yourself/")
+[https://www.youtube.com/watch?v=Sf4g19g-cGw](https://www.youtube.com/watch?v=Sf4g19g-cGw "Brand Graffiti Kunst Streetart Köln ")
 
 This artistic facade design of a dormitory for refugees in Cologne's Südstadt in collaboration with the artist "Love". You can find a very readable article on the project here:
 
@@ -29,4 +29,4 @@ This artistic facade design of a dormitory for refugees in Cologne's Südstadt i
 
 you can watch a video about the creation here:
 
-[https://www.youtube.com/watch?v=Sf4g19g-cGw](https://www.youtube.com/watch?v=Sf4g19g-cGw "https://www.youtube.com/watch?v=Sf4g19g-cGw")
+[https://www.youtube.com/watch?v=Sf4g19g-cGw](https://www.youtube.com/watch?v=Sf4g19g-cGw "Brand Streetart Köln graffiti urbanart Südstadt ")
