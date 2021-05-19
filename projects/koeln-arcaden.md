@@ -13,12 +13,14 @@ project_fg_color: "#bb310e"
 ---
 ![](/uploads/6fc3bd99-dca3-406f-98ef-984c52b30f74.jpeg)![](/uploads/brand_corporate_art_koln_arcaden_2portraits.jpg)![](/uploads/6535e98e-4e39-46fb-95c6-9908d1846c92.jpeg)![](/uploads/arcaden_koln_brand_urban_art_gisella.jpg)
 
-Diese Portraits unterschiedlicher Menschen und Kulturen stellten wir auf der Eingangswand der Köln Arcaden in Köln Kalk dar.
+Diese künstlerische Gestaltung entstand im Eingangsbereich der Kalk Arcaden in Köln und zeigt die Portraits von acht Personen aus unterschiedlichen Kulturkreisen. Modern in Szene gesetzt und alles in Handarbeit mittels Sprühfarben realisiert. Vielen Dank für die Zusammenarbeit. 
 
 Hier der Film zur Entstehung:
 
 [https://www.youtube.com/watch?v=maRugw3BT6w](https://www.youtube.com/watch?v=maRugw3BT6w "https://www.youtube.com/watch?v=maRugw3BT6w")
 
-We presented these portraits of different people and cultures on the entrance wall of the Köln Arcaden mall in Köln Kalk. Here is the film about the making:
+This artistic design was created in the entrance area of ​​the Kalk Arcaden mall in Cologne and shows the portraits of eight people from different cultures. Set in a modern scene and everything is done by hand using spray paints. Thank you for the cooperation.
+
+Here is the film about the making of:
 
 [https://www.youtube.com/watch?v=maRugw3BT6w](https://www.youtube.com/watch?v=maRugw3BT6w "https://www.youtube.com/watch?v=maRugw3BT6w")
