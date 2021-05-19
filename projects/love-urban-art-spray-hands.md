@@ -17,7 +17,7 @@ Dieses großformatige Wandbild auf der Seitenwand einer Turnhalle entstand in Zu
 
 hier der Film zum Projekt:
 
-[https://www.youtube.com/watch?v=9V2_OoymGiE](https://www.youtube.com/watch?v=9V2_OoymGiE "https://www.youtube.com/watch?v=9V2_OoymGiE")
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/9V2_OoymGiE](https://www.youtube.com/embed/9V2_OoymGiE "https://www.youtube.com/embed/9V2_OoymGiE")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 This large-format mural on the side wall of a gym was created in collaboration with Urban Drips
 
