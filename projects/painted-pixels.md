@@ -19,7 +19,7 @@ hier das Video zur Entstehung des Projekts:
 
 [https://www.instagram.com/p/B1Iwi59At_A](https://www.instagram.com/p/B1Iwi59At_A)
 
-Brand-Pixel a artwork on an abandoned factory site in the Ruhr area.
+BRAND Pixel´s is a artwork on an abandoned factory site in the Ruhr area.
 
 Here is the video of creating the project:
 
