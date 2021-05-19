@@ -13,6 +13,6 @@ project_fg_color: ''
 ---
 ![](/uploads/urban_art_stairway_brand_oz_style1.jpg)![](/uploads/urban_art_stairway_brand1.jpg)![](/uploads/urban_art_stairway_brand.jpg)![](/uploads/urban_art_stairway_brand_oz_style.jpg)
 
-Auftragsarbeit für Küpper Bros Immobilien in Wuppertal
+Im Auftrag von Küpper Bros Immobilien gestalteten wir dieses Treppenhaus über drei Etagen in einem Mehrfamilienhaus in Wuppertal. Konzeption, Entwurf und professionelle Umsetzung mit Sprühlacken - alles aus einer Hand - BRAND !
 
-Commissioned work for Küpper Bros Immobilien in Wuppertal
+On behalf of Küpper Bros Immobilien, we designed this stairwell over three floors in an apartment building in Wuppertal. Conception, design and professional implementation with spray paints - everything from a single source - BRAND!
