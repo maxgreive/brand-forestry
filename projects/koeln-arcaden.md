@@ -17,8 +17,6 @@ Diese Portraits unterschiedlicher Menschen und Kulturen stellten wir auf der Ein
 
 Hier der Film zur Entstehung:
 
-[https://www.youtube.com/watch?v=maRugw3BT6w](https://www.youtube.com/watch?v=maRugw3BT6w "making of Köln Arcaden Brand")
-
-We presented these portraits of different people and cultures on the entrance wall of the Köln Arcaden mall in Köln Kalk. Here is the film about the making: 
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/maRugw3BT6w](https://www.youtube.com/embed/maRugw3BT6w "https://www.youtube.com/embed/maRugw3BT6w")" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>We presented these portraits of different people and cultures on the entrance wall of the Köln Arcaden mall in Köln Kalk. Here is the film about the making:
 
 [https://www.youtube.com/watch?v=maRugw3BT6w](https://www.youtube.com/watch?v=maRugw3BT6w "https://www.youtube.com/watch?v=maRugw3BT6w")
