@@ -13,7 +13,7 @@ project_fg_color: ''
 ---
 ![](/uploads/pixel_brand_art_wall_totale.jpg)![](/uploads/pixel_brand_art_wall.jpg)![](/uploads/pixel_wall_flavour.jpg)
 
-Brand-Pixel eine freie Arbeit auf einem verlassenen Fabrikgelände im Ruhrgebiet. 
+Brand-Pixel eine freie Arbeit auf einem verlassenen Fabrikgelände im Ruhrgebiet.
 
 Hier das Video zur Entstehung des Projekts:
 
