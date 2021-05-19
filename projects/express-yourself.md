@@ -17,8 +17,10 @@ project_fg_color: ''
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Sf4g19g-cGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Diese künstlerische Fassadengestaltung eines Wohnheims für Flüchtlinge in der Kölner Südstadt in Zusammenarbeit mit dem Künstler "Love". Einen sehr lesenswerten Artikel zum Projekt finden Sie hier:
+Diese künstlerische Fassadengestaltung eines Wohnheims für Flüchtlinge in der Kölner Südstadt haben wir in Zusammenarbeit mit dem Künstler "Love" realisiert. Einen sehr lesenswerten Artikel zum Projekt finden Sie hier:
 
 [https://www.meinesuedstadt.de/express-yourself/](https://www.meinesuedstadt.de/express-yourself/ "https://www.meinesuedstadt.de/express-yourself/")
 
-This artistic facade design of a dormitory for refugees in Cologne's Südstadt in collaboration with the artist "Love". 
+This artistic facade design of a dormitory for refugees in Cologne's Südstadt in collaboration with the artist "Love".
+
+you can
