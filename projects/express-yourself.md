@@ -15,7 +15,7 @@ project_fg_color: ''
 
 ![](/uploads/f093decd-8c3d-4832-a84f-71a65d599948.jpeg)![](/uploads/brand_love_detail_urban_corporate_art_cologne.jpg)![](/uploads/2a325568-e5dd-4458-929b-0e5261ea3ff4.jpeg)![](/uploads/brand_love_girl_urban_corporate_art_cologne.jpg)![](/uploads/5200bca0-3664-4e66-90dd-363661c90027.jpeg)
 
-Freie künstlerische Gestaltung der Fassade eines Wohnheims für Flüchtlinge in der Kölner Südstadt in Zusammenarbeit mit dem Künstler "Love". Einen sehr lesenswerten Artikel zum Projekt finden Sie hier:
+Freie künstlerische Fassadengestaltung eines Wohnheims für Flüchtlinge in der Kölner Südstadt in Zusammenarbeit mit dem Künstler "Love". Einen sehr lesenswerten Artikel zum Projekt finden Sie hier:
 
 [https://www.meinesuedstadt.de/express-yourself/](https://www.meinesuedstadt.de/express-yourself/ "https://www.meinesuedstadt.de/express-yourself/")
 
