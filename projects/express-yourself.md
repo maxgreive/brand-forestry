@@ -22,5 +22,3 @@ Diese künstlerische Fassadengestaltung eines Wohnheims für Flüchtlinge in der
 [https://www.meinesuedstadt.de/express-yourself/](https://www.meinesuedstadt.de/express-yourself/ "https://www.meinesuedstadt.de/express-yourself/")
 
 This artistic facade design of a dormitory for refugees in Cologne's Südstadt in collaboration with the artist "Love".
-
-you can
