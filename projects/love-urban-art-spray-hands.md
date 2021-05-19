@@ -17,10 +17,11 @@ Dieses großformatige Wandbild auf der Seitenwand einer Turnhalle wurde innerhal
 
 hier der Film zum Projekt:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9V2_OoymGiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1200" height="630" src="https://www.youtube.com/embed/9V2_OoymGiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 This large-format mural on the side wall of a gym was implemented within 5 days using spray cans. The mural was created in collaboration with Urbandrips.
 
 here is the film about the project:
 
-[https://www.youtube.com/watch?v=9V2_OoymGiE](https://www.youtube.com/watch?v=9V2_OoymGiE "https://www.youtube.com/watch?v=9V2_OoymGiE")
+<iframe width="1200" height="630" src="https://www.youtube.com/embed/9V2_OoymGiE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
