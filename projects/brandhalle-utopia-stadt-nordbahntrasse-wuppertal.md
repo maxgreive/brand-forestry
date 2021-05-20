@@ -19,4 +19,4 @@ Kulturbüro Wuppertal, ASW, Bauwatch, Vivica Mittelsten-Scheid, Knipex, Jackstä
 
 We created the largest mural in the region Bergisches Land on an area of ​​140 m x 7 m. To be marveled at the Mirker train station on the Nordbahn route in Wuppertal. This wall design was created over several weeks and was initiated by the BRAND team itself.
 
-Thanks for the support from: Kulturbüro Wuppertal, ASW, Bauwatch, Vivica Mittelsten-Scheid, Knipex, Jackstädt Foundation, Spielhoff equipment rental and Utopia Stadt
+Thanks for the support from: Kulturbüro Wuppertal, ASW, Bauwatch, Vivica Mittelsten-Scheid, Knipex, Jackstädt Foundation, Spielhoff Equipment Rental and Utopia Stadt
