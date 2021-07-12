@@ -5,7 +5,7 @@ title: Instagram and Youtube
 excerpt: follow us
 
 ---
-you can follow us on Instagram:
+BRAND on Instagram:
 
 [https://instagram.com/brand__art__official](https://instagram.com/brand_art_official "Instagram")
 
